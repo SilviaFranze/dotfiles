@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = silvia.franze.521@gmail.com
+	name = Silvia Franze
